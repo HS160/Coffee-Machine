@@ -30,14 +30,6 @@ A simple Python-based coffee machine simulator that allows users to order variou
 
 - Python 3.x
 
-## Installation
-
-1. Clone this repository:
-   git clone https://github.com/HS160/coffee-machine-simulator.git
-2. Navigate to the project directory:
-   cd coffee-machine-simulator
-3. Run the script:
-   python coffee_machine.py
 
 ## Contributing
 
