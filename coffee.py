@@ -1,16 +1,3 @@
-# 3 flavour coffee 
-#(espresso - 50ml water, 18g coffee/ latte- 200ml water, 24g coffee, 150ml milk/ capuccino - 250ml water, 24g coffee, 100ml milk)
-# different price for each
-# coffee machine resources (300ml water/200ml milk/100g of coffee)
-# coin operated / cash operated
-# 
-# *****Requirements*****
-#1.Print report of left items
-#2.Check Resources sufficient? 
-#3.Process payments
-#4.Check transactions
-#5.Make coffee and deduct resources
-
 MENU = {
     "espresso": {
         "ingrediants":{
